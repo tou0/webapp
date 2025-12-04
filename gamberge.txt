@@ -574,3 +574,159 @@ Beaucoup d’activité ésotérique autour des bridges.
 
 Meshnet expérimental conçu pour se reconstruire dans des environnements instables.
 Genre réseau post-catastrophe.
+
+🜄 1) APIs COSMICO-CHAOTIQUES / données naturelles extrêmes
+🌑 1.1. Dark Skies Solar Cycle API
+
+Données sur le cycle solaire 25, anomalies UV, trous coronaux.
+Magnifique pour dashboards cosmo-chaos.
+
+💥 1.2. Bolides NASA API
+
+Catalogue des météorites explosant dans l’atmosphère (fireballs).
+Ambiance messages célestes.
+
+🌬 1.3. Atmospheric Electricity API
+
+Données open sur champs électriques atmosphériques.
+Effets visuels incroyables en data-art.
+
+🌊 1.4. NOAA Tsunami Alerts API
+
+Alertes de vagues anormales, modèle très spécifique et peu connu.
+
+🧊 1.5. Cryosphere Data API
+
+Mouvements de la glace antarctique et arctique.
+Tu peux visualiser la “respiration” de la Terre.
+
+🜃 2) APIs ARCHIVE / DATA FANTÔME / web disparu
+👾 2.1. MARBLE (Malware Analysis Repo) Public Samples Metadata API
+
+Ne fournit pas les fichiers → uniquement métadonnées.
+Légal et fascinant pour voir les structures historiques de souches.
+
+🕸 2.2. Old Screensaver Repository API
+
+Data sur anciens .SCR, animations Windows 95/98.
+Ambiance rétro-glitch.
+
+📟 2.3. ASCII Art Archive API
+
+Des millions de dessins ASCII classés par tags.
+Idéal pour bots “terminal esthétique”.
+
+🗺 2.4. Historic Maps API (David Rumsey Collection)
+
+Des scans de cartes anciennes haute résolution.
+Formidable pour projets anachroniques.
+
+🎤 2.5. Wax Cylinder Audio API
+
+Enregistrements de voix humaines de 1890–1920 en open data.
+Fantômes réels.
+
+🜂 3) APIs CHAOS / ART GLITCH / outputs étranges
+💫 3.1. Diffraction Pattern Generator API
+
+Transformations mathématiques donnant des motifs lumineux.
+Très esthétique, très étrange.
+
+📡 3.2. Radio Static Synth API
+
+Génère un bruit radio modulé.
+Parfait pour projets cyberpunk audio.
+
+🎨 3.3. Palette Mutator API
+
+Prend une image et génère des palettes “mutantes”.
+Résultat = glitch organique.
+
+🧬 3.4. Cellular Automata API
+
+Explorateur d’automates (Game of Life, Rule 110, Lenia, etc.).
+Le chaos mathématique pur.
+
+💥 3.5. Procedural Texture Noise API
+
+Génère du Voronoi, Worley, Marble, Plasma, Nebula.
+Art génératif niveau synthesis.
+
+🜄 4) APIs LINGUISTIQUES OCCULTES / techno-mystiques
+🔤 4.1. IPA Phoneme Generator API
+
+Génère des séquences phonétiques impossibles à prononcer.
+Bonne base pour voix aliens / rituels synthétiques.
+
+📚 4.2. Universal Dependencies Treebank API
+
+Structures syntaxiques de langues rares / mortes.
+Tu peux générer du texte grammatical mais incompréhensible.
+
+🪐 4.3. Conlang Forge API
+
+API de création de langues artificielles.
+Super pour worldbuilding cyber-occultiste.
+
+🧙‍♀️ 4.4. Sigils Procedural API
+
+Génère des symboles ésotériques basés sur des algos.
+Art mystique automatique.
+
+🎙 4.5. Text-to-Chant API
+
+Transforme un texte en chant grégorien synthétique.
+Hyper bizarre et magnifique.
+
+🜁 5) APIs RÉSEAUX ALTERNATIFS / techno off-grid / manières futuristes
+🧭 5.1. GNUnet API
+
+Réseau P2P orienté confidentialité.
+Fonctionne en modules (DHT, messaging, fichier), super expérimental.
+
+🔷 5.2. Matrix Federation API
+
+Explorateur des serveurs Matrix (chiffré, décentralisé).
+Permet de visualiser un réseau très organique.
+
+📡 5.3. Tailscale Device Info API
+
+Topologie de réseaux privés mesh.
+Usage légal sur tes devices → très cyberpunk comme concept.
+
+🚦 5.4. Tor Onion-Location Metadata API
+
+Ne donne aucune adresse privée → juste les metas publiquement déclarées.
+Dataset étrange d’infos minimalistes.
+
+🧿 5.5. Nebula Mesh Network API (Slack OSS)
+
+Réseau overlay très élégant.
+Son API explore les peers et chemins cryptés.
+100 % safe, 100 % underground.
+
+🜉 6) APIs scientifiques obscures / data ésotériques mais réelles
+🧪 6.1. Human Microbiome Project Metadata API
+
+Données non personnelles sur la composition bactérienne humaine.
+Information étrange et très science-fiction.
+
+🌱 6.2. Phenology Network API
+
+Dates de floraison / migration / cycles biologiques globaux.
+Certains patterns sont surprenants.
+
+💫 6.3. Particle Detector Event API
+
+Événements de détecteurs de particules dans des labos.
+Le bruit ressemble à des constellations digitales.
+
+🔬 6.4. Crystallography Open Database API
+
+Structures atomiques en 3D.
+Visualisations hypnotiques.
+
+🧮 6.5. Wolfram “Odd Knowledge” Endpoints
+
+Les sous-API correspondant aux faits improbables, objets mathématiques rares.
+Terrier de lapin infini.
