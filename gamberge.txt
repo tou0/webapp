@@ -155,3 +155,422 @@ Tu veux :
 🛰️ des APIs décentralisées exotiques (Meshnet, p2p, crypto hors-Ethereum) ?
 
 Dis-moi le niveau et je te prépare un pack “full underground”.
+
+⚡️ 1) OSINT obscur & géodata deep
+🛰 1.1. ADS-B Exchange API (avions non filtrés)
+
+Trajectoires d’avions en temps réel sans censure (militaires, privés, etc.).
+Extrêmement puissant en OSINT.
+
+🚢 1.2. AIS Ship Tracking API
+
+Positions de bateaux en direct.
+Peut suivre des cargos, navires militaires, yachts de milliardaires, etc.
+
+🌋 1.3. EMSC / USGS Earthquake APIs (sismologie en temps réel)
+
+Séismes, signaux faibles, détection automatique.
+Parfait pour faire des dashboards apocalyptiques.
+
+🚨 1.4. Global Incident Map API
+
+Infos sur terrorisme, épidémies, phénomènes étranges, mouvements militaires…
+Ambiance cyber-threat-intel.
+
+🌐 1.5. peeringDB API
+
+Données sur les points d’interconnexion Internet dans le monde.
+Hyper OSINT réseau.
+
+🧠 2) Hacking “légal” extrême / cybersécurité avancée
+🔐 2.1. PhishStats API
+
+Base de phishing en temps réel.
+Très utilisé pour threat hunting.
+
+🛡 2.2. AbuseIPDB API
+
+Liste noire mondiale d’IP malveillantes.
+Donne le type d’attaque associée (botnet, brute-force, scan…).
+
+🔥 2.3. Greynoise API
+
+Recense TOUS les scanners qui touchent l’Internet public.
+Détermine si une IP est un “internet background noise actor”.
+
+🧬 2.4. CIRCL Luxemburg APIs (botnet, malware, MISP)
+
+Centre cyber européen qui expose :
+
+botnets analysés
+
+malwares décortiqués
+
+IOC (indicateurs de compromission)
+Totalement légal et extrêmement underground.
+
+🧊 3) APIs de chaos et bruit numérique pur
+🎛 3.1. Glitch Art Generator API
+
+API qui corrompt des images (JPEG datastep, pixelshift, scrambling).
+Une pure machine à chaos visuel.
+
+🧨 3.2. Noise-API (brown, pink, white noise)
+
+Génère des flux audio chaotiques.
+Utile pour installations artistiques ou distorsions.
+
+🧬 3.3. EntropyPool API
+
+Pools d’entropie naturels (radioactivité, bruit thermique…).
+Parfait pour randomiser des systèmes de manière cosmique.
+
+🧩 3.4. Markov Chain Random Text API
+
+Texte généré par modèles markoviens bruités → incohérence assurée.
+Rendu : incompréhensible, donc excellent.
+
+🕶 4) APIs totalement WTF — section “pourquoi ça existe ?”
+🍋 4.1. The “Corporate BS Generator” API
+
+Génère du jargon bullshit corporate randomisé.
+La satire ultime.
+
+🍌 4.2. Banana for Scale API
+
+Te renvoie uniquement des images d’objets avec des bananes pour échelle.
+Utilité = 0. Fun = 10.
+
+👤 4.3. “This Person Does Not Exist” API-like endpoints
+
+Génération de visages inexistants (GAN).
+Effet étrange mais légal.
+
+🧪 4.4. Quantum Random Quotes API
+
+Citations générées de manière quantique (??).
+Personne ne comprend vraiment comment ça marche.
+
+🕸 5) APIs décentralisées / réseaux alternatifs
+🌐 5.1. Lokinet API (routage décentralisé I2P-like)
+
+Réseau d’anonymisation hors Tor.
+API bas niveau pour router du trafic dans un overlay network.
+
+📡 5.2. Helium Network API
+
+Infos en temps réel sur les hotspots et trafics LoRaWAN décentralisés.
+
+🌱 5.3. Golem Network API
+
+Réseau P2P permettant de louer de la puissance de calcul.
+L’ambiance cyberpunk est totale.
+
+🧿 5.4. Fluence Labs API (p2p serverless)
+
+Backend décentralisé où aucune machine n’est centrale.
+Très expérimental.
+
+📦 5.5. Filecoin API
+
+Stockage décentralisé, proche d’IPFS mais orienté marché.
+
+🧬 6) APIs mystérieuses / semi-académiques / niches extrêmes
+🔭 6.1. SETI@home API (données radio extraterrestres historiques)
+
+Scientifique, mais extrêmement underground comme dataset.
+
+📡 6.2. NOAA Space Weather API
+
+Tempêtes solaires, flux de protons, anomalies magnétiques…
+Le truc parfait pour dashboards “fin du monde”.
+
+🔍 6.3. NeutrinoAPI (mais les modules bizarres)
+
+Comme :
+
+détecteur d’obscénité
+
+validateurs d’identités
+
+géolocalisation borderline
+
+analyse d’images suspectes
+Totalement legal mais ambiance “cyber-narrative”.
+
+⚫️ 1) OSINT obscur — Niveau “données du monde réel que personne ne regarde”
+📻 1.1. Radio Garden Unofficial Streams API
+
+Accès aux métadonnées de radios du monde entier, y compris stations pirates / micro-locales.
+Géopolitique + culture locale + ambiance post-soviétique.
+
+🚦 1.2. Traffic Camera Feeds API (open cities)
+
+Certaines villes exposent légalement leurs caméras de trafic.
+Utilisable pour projets de vision, météo réelle, dynamiques sociales.
+100% légal car open-data.
+
+📡 1.3. OpenSky Network API (avions + transpondeurs bizarres)
+
+Données brutes d’avions, dont certains vols rarement visibles ailleurs.
+
+🔥 1.4. FIRMS NASA Wildfire API
+
+Feux de forêt en quasi temps réel.
+Parfait pour OSINT géographique extrême.
+
+🧭 1.5. Global Power Plants API
+
+Base complète des centrales électriques du monde (nucléaire compris, mais données publiques).
+Idéal pour cartographie d’infrastructures critiques (toujours légal).
+
+🕳 2) APIs de chaos — Niveau “glitch total, bruit numérique, distorsion”
+🎚 2.1. Audio Stretch & Distortion API
+
+Étire un son à l’infini sans changer le pitch.
+Résultat = paysage sonore spectral.
+
+🌈 2.2. HexCorrupt API
+
+Tu envoies une image, ça te renvoie la même mais corrompue dans l’espace hexadécimal.
+Pur glitch expérimental.
+
+📼 2.3. VHS Static Generator API
+
+Génère du bruit de VHS, lignes cassées, saturation magnétique.
+Ambiance found-footage.
+
+❓ 2.4. Unknown Error Message Generator API
+
+Renvoie des erreurs pseudo-systèmes inventées.
+Hyper utilisable pour ARG / projets artistiques.
+
+🧬 2.5. Stochastic Poetry API (chaîne de Markov chaotique)
+
+Génère des textes hallucinés borderline incompréhensibles.
+Bon pour bots surréalistes.
+
+🕯 3) APIs vraiment WTF — Section “archéologie numérique”
+💾 3.1. Geocities Archive API
+
+Oui, il existe des archives API-like de vieux sites Geocities.
+Data purement rétro-Internet.
+
+📺 3.2. Lost Media Database API (non officielle)
+
+Listes d’œuvres perdues ou impossibles à retrouver.
+Très bizarre et fascinant.
+
+☎️ 3.3. Number Stations Metadata API
+
+Données publiques sur les fréquences où on capte les fameuses “voix synthétiques” style espionnage.
+Aucune transmission réelle, juste catalogage.
+Safe mais très mystique.
+
+🎮 3.4. Doom WAD Metadata API
+
+Répertorie tous les WADs custom de DOOM (maps, monstres, mods).
+Trésors du net profond.
+
+🎤 3.5. Vocaloid Phonemes API
+
+API pour générer des séquences phonétiques de voix synthétiques japonaises.
+Complètement niche et artistique.
+
+🕸 4) APIs décentralisées — Niveau “réseaux alternatifs et off-grid”
+🌐 4.1. Yggdrasil Meshnet API
+
+Réseau maillé global avec adressage cryptographique.
+API pour explorer la topologie.
+Ultra underground.
+
+🔷 4.2. Scuttlebutt (SSB) API
+
+Réseau social p2p, sans serveurs.
+API rustique mais super vibe cyber-commune.
+
+🧱 4.3. Secure Scuttlebutt Patchwork Messages API
+
+Accès aux threads décentralisés, style “message in a bottle”.
+
+🪙 4.4. Kad-DHT API (réseaux type BitTorrent)
+
+Accès aux tables de hachage distribuées (juste metadata, légal).
+Hyper technique et obscur.
+
+📦 4.5. Dat / Hypercore API
+
+Ancêtre de l’IPFS, très utilisé par les hackers-artistes.
+Un style “punk du web”.
+
+🧬 5) APIs étranges / scientifiques / cosmiques
+🌌 5.1. Space Weather Prediction Center (SWPC) API
+
+Rend des données sur :
+
+flux solaires
+
+anomalies geomagnétiques
+
+alertes aurorales
+Parfait pour dashboards apocalyptiques.
+
+🧲 5.2. Geomagnetic Disturbance API
+
+Indicateurs du champ magnétique terrestre.
+Ambiance scifi mais réelle.
+
+🔭 5.3. Minor Planet Center API
+
+Données d’astéroïdes, comètes, objets near-Earth.
+Très underground dans le milieu astro.
+
+🎛 5.4. CERN Open Data API
+
+Données d’accélérateur, collisions de particules.
+Très académique mais totalement cyberpunk.
+
+🛰 5.5. Radio Telescope Open APIs
+
+Datasets de signaux radio bruts (non traités).
+Un vrai terrain de jeu pour projets sonores ou visuels.
+
+🜁 1) APIs para-scientifiques / signaux cosmiques obscurs
+🔊 1.1. LIGO Open Science Center API
+
+Données brutes d’ondes gravitationnelles.
+Pas du tout user-friendly : signaux faibles, bruit cosmique, glitchs physiques réels.
+Utilisé par les astrophysiciens… et quelques artistes sonores fous.
+
+🌌 1.2. CHIME Radio Telescope API (FRB – Fast Radio Bursts)
+
+Accès à la base officielle des FRB — signaux radio ultra-courts d’origine encore mystérieuse.
+C’est du vrai contenu “cosmic weird”.
+
+🛰 1.3. Space-Track API (orbites, objets spatiaux abandonnés)
+
+Info sur débris orbitaux, satellites morts, objets “non coopératifs”.
+Data parfois étrange : objets disparus / réapparus.
+
+🔭 1.4. IRIS Seismology API (anomalies terrestres profondes)
+
+Séismes exotiques, résonances terrestres, signaux bizarres.
+Parfait pour installations “géo-occultes”.
+
+🧲 1.5. GFZ Potsdam Magnetosphere API
+
+Mesures de la magnétosphère terrestre.
+Les variations sont magnifiques à visualiser et totalement incomprises par les humains non spécialistes.
+
+👻 2) APIs d’artefacts numériques fantômes / “404 archéologiques”
+💀 2.1. The Old Web Snapshot API
+
+Snapshots de sites web morts avant l’Internet moderne.
+Pages semi-corrompues, en mixture HTML primitif, parfait pour archéologie numérique.
+
+🗃 2.2. Re:Web Artefact API (fichiers corrompus open data)
+
+Un projet artistique cataloguant :
+
+JPEG glitchés
+
+ZIP partiellement lisibles
+
+fragments de pages
+
+bitrot numériques
+Complètement WTF et légal.
+
+📄 2.3. Broken PDF Corpus API
+
+Bibliothèque de PDFs partiellement déchiffrables, utilisés pour entraînement NAD (Noise-Aware models).
+Idéal pour projets glitch ou rétro-ingénierie artistique.
+
+🎞 2.4. Obsolete Video Codecs API
+
+Clips dégradés encodés en codecs oubliés : RealMedia, Indeo, Cinepak.
+Une mine pour projets vaporwave/hauntology.
+
+📟 2.5. Error Message Archive API
+
+Archive historique d’erreurs Windows, Linux, OS morts (BeOS, OS/2…).
+Tu peux générer un flux spectral de “fantômes technologiques”.
+
+🛰 3) OSINT GÉOPOLITIQUE PROFOND
+⚓ 3.1. Dark Maritime Patterns API
+
+Analyse des navires coupant leur transpondeur AIS (dark shipping).
+Données open source issues de chercheurs.
+Ambiance géopolitique très sérieuse.
+
+🛢 3.2. Global Oil & Gas Fields Open Data API
+
+Localisation + info sur gisements pétroliers, mouvements d’infrastructure.
+Utilisé par analystes énergie et OSINT éco.
+
+⚡️ 3.3. World Nuclear Reactor Status API
+
+Données publiques sur l’état des réacteurs nucléaires (arrêts, incidents mineurs, output).
+Exploité en OSINT énergético-politique.
+
+🧮 3.4. AidData GeoQuery API
+
+Mappe les projets gouvernementaux / investissements / influence internationale.
+Ultra OSINT diplomatique.
+
+🛰 3.5. UN Satellite Imagery Hub API (open)
+
+Images satellites open sur zones de crise, frontières, catastrophes.
+Puissant mais totalement légal.
+
+🕯 4) APIs artistiques occultes / glitch fractal / cryptopoésie
+🌀 4.1. Fractal Noise Field API
+
+Génère du bruit fractal (Perlin, Worley, turbulence).
+Très utilisé dans l’art génératif sombre.
+
+🔮 4.2. Tarot Procedural API
+
+Génère des tirages de tarot “algorithmiques” + interprétation stochastique.
+Ambiance techno-occultiste.
+
+🧬 4.3. Crypto-Poetry API
+
+Génère des poèmes basés sur des hachés cryptographiques d’entrées arbitraires.
+Résultat = poésie déterministe mais bizarrement mystique.
+
+📜 4.4. Dead Language Generator API
+
+Construit des phrases simulant des langues disparues (sumérien, hittite), mais de manière bruitée.
+Hyper niche.
+
+🎛 4.5. Spectral Image Decomposition API
+
+Désassemble les couleurs d’une image en fréquences.
+Effet : “visions occultes” très glitch.
+
+🟣 5) APIs crypto ésotériques / réseaux expérimentaux
+🧿 5.1. Holochain Conductor API
+
+Réseau ultra-expérimental, sans blockchain.
+Modèle de validation distribuée “vivant”.
+
+⛓ 5.2. Radicle P2P Dev Network API
+
+Git décentralisé.
+Topologie des nœuds accessible (rare et underground).
+
+🧩 5.3. Avalanche Subnet Explorer API
+
+Permet d’explorer des sous-réseaux blockchain autonomes.
+Chaque subnet = un micro-univers parallèle.
+
+🚀 5.4. Cosmos IBC Routing API
+
+Cartographie en temps réel des chaînes interconnectées.
+Beaucoup d’activité ésotérique autour des bridges.
+
+📡 5.5. Mesh Potential Network API (projet académique)
+
+Meshnet expérimental conçu pour se reconstruire dans des environnements instables.
+Genre réseau post-catastrophe.
