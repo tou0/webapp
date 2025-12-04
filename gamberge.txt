@@ -880,3 +880,430 @@ Expose uniquement des stats anonymisées → utile pour visualiser les connexion
 
 Data de satellites GPS + GLONASS + Galileo + BeiDou.
 Permet de faire de la géolocalisation artistique surprenante.
+
+🟦 A — OSINT classique & géopolitique (mais profond)
+
+APIs légales, open-data, utilisées en analyse, cyber, recherche.
+
+🛰 Trafic aérien / maritime
+
+ADS-B Exchange API
+
+OpenSky Network API
+
+AIS Ship Tracking API
+
+Satellite Reentry Track API
+
+🌍 Réseaux & infrastructures
+
+PeeringDB API
+
+Global Power Plants API
+
+World Nuclear Reactor Status API
+
+Global Oil & Gas Fields API
+
+Quarry & Mining Activity API
+
+🌋 Incidents / catastrophes / nature
+
+EMSC / USGS Earthquake APIs
+
+IRIS Seismology API
+
+NOAA Tsunami Alerts API
+
+FIRMS Wildfire API
+
+Disaster Incident Feed API
+
+🧭 Géopolitique & économie mondiale
+
+AidData GeoQuery API
+
+Historic Border Changes API
+
+Crop Health Index (NDVI) API
+
+🛰 Open satellites & archives
+
+UN Satellite Imagery Hub API
+
+Space-Track API (objets orbitaux)
+
+🟥 B — Cybersécurité / “hack légal” (white-hat)
+🔍 Analyse de menaces & acteurs
+
+Shodan API
+
+Censys API
+
+Greynoise API
+
+AbuseIPDB API
+
+PhishStats API
+
+🔐 Données compromises (toujours tes propres données)
+
+HaveIBeenPwned API
+
+⚙️ Vulnérabilités & malwares
+
+NVD/CVE API
+
+GitHub Security Advisory API
+
+CIRCL/MISP APIs (metadata malwares, IOC)
+
+MARBLE Malware Metadata API (échantillons non téléchargeables)
+
+🟩 C — Chaos / glitch / bruit numérique
+🎛 Audio-chaos
+
+Radio Static Synth API
+
+Noise API (white/pink/brown noise)
+
+Audio Spectral Smear API
+
+Audio Stretch & Distortion API
+
+🖼 Visuels glitch & textures
+
+Glitch Art Generator API
+
+JPEG-Q Mutator API
+
+HexCorrupt API
+
+Frozen Frame Generator API
+
+VHS Static Generator API
+
+Strange Attractor Image API
+
+Procedural Texture Noise API
+
+Diffraction Pattern Generator API
+
+Spectral Image Decomposition API
+
+🧬 Chaos mathématique & automates
+
+Markov Chain Random Text API
+
+Cellular Automata API
+
+EntropyPool API
+
+Quantum RNG Derivatives API
+
+🟨 D — Archives, rétro-tech, web fantôme
+📼 Vidéo / audio anciens
+
+The VHS Vault API
+
+Betamax Video Archive API
+
+Wax Cylinder Audio API
+
+💾 Logiciels & formats morts
+
+Old Software Metadata API
+
+Obsolete Video Codecs API
+
+File Signature Archeology API
+
+Magnetic Tape Errors API
+
+BIOS POST Codes API
+
+Broken PDF Corpus API
+
+🕸 Web ancien
+
+Geocities Archive API
+
+The Old Web Snapshot API
+
+Re:Web Artefact API (fichiers corrompus)
+
+ASCII Art Archive API
+
+🟪 E — APIs WTF / absurdes / artistiques
+🐸 Animaux & bizarreries
+
+Cat as a Service
+
+Dogs API
+
+Frog API
+
+🧨 Humour & absurdité
+
+Evil Insult Generator API
+
+Useless Facts API
+
+Corporate BS Generator API
+
+Bored API
+
+Pickle Rick API
+
+Banana for Scale API
+
+🎨 Art & génération
+
+Palette Mutator API
+
+Doom WAD Metadata API
+
+Unknown Error Message Generator API
+
+Old Screensaver Repository API
+
+🟧 F — Crypto, décentralisé, réseaux alternatifs
+🧊 Stockage décentralisé
+
+IPFS DAG Explorer API
+
+Arweave / Bundlr API
+
+Filecoin API
+
+🔗 Blockchain non-standard
+
+TheGraph API
+
+Avalanche Subnet Explorer API
+
+Cosmos IBC Routing API
+
+Tendermint Consensus Debug API
+
+🌐 Réseaux p2p / mesh / futuristes
+
+Golem Network API
+
+Holochain Conductor API
+
+GNUnet API
+
+Nebula Mesh Network API
+
+Yggdrasil Meshnet API
+
+Scuttlebutt (SSB) API
+
+Dat/Hypercore API
+
+Matrix Federation API
+
+Tailscale Device Info API
+
+WebRTC NAT Traversal Stats API
+
+🎧 Web3 média
+
+Audius API
+
+🟦 G — Science étrange / signaux naturels obscurs
+🌌 Cosmique / spatial
+
+LIGO Open Science (ondes gravitationnelles)
+
+CHIME FRB API (pulses radio mystérieux)
+
+Bolides NASA API
+
+Meteoroid Environment Office API
+
+Space Weather Prediction Center (SWPC) API
+
+🌍 Terre profonde & anomalies
+
+Volcanic Infrasound API
+
+Cryosphere Data API
+
+Stratospheric Temperature Inversion API
+
+Atmospheric Electricity API
+
+Schumann Resonances API
+
+🔬 Sciences expérimentales
+
+CERN Open Data API
+
+Particle Detector Event API
+
+Crystallography Open Database API
+
+Human Microbiome Project Metadata API
+
+Phenology Network API
+
+🟫 H — Langage, mystique, occult-tech
+🔤 Linguistique rare / reconstruction
+
+Universal Dependencies API
+
+Proto-Indo-European Root Finder API
+
+Conlang Forge API
+
+Morpheme Mutation API
+
+✨ Phonétique & voix étranges
+
+IPA Phoneme Generator API
+
+Alien-Phonetics Generator API
+
+Whistler’s Language API
+
+Text-to-Chant API
+
+🪐 Symbolique / ésotérisme numérique
+
+Sigils Procedural API
+
+Crypto-Poetry API
+
+🟦 I — Divers OSINT culturel / géo-anthropologique
+🌍 Culture & sociétés
+
+Radio Garden Metadata API
+
+Historic Maps API (Rumsey)
+
+🎤 Média et sons rares
+
+Lost Media Database API (unofficial)
+
+🟩 J — APIs utilitaires (mais vibes underground quand détournées)
+🔧 Données info / divers
+
+Archive.org API
+
+JSONPlaceholder
+
+OpenMeteo
+
+NASA odd APIs (Fireballs, DONKI…)
+
+📌 Si tu veux :
+
+Je peux maintenant te produire une grande carte visuelle mentale,
+ou trier par :
+
+rare → ultrarare → ésotérique
+
+usage créatif → artistique → cyberpunk → OSINT extrême
+
+API réelles → API expérimentales → API conceptuelles / artistiques
+
+Ou même te faire un PACK VII spécial dans un style particulier (cyberpunk, mystique, glitch maximal, etc.).
+
+Tu veux qu’on trie comment maintenant ?
+
+You said:
+ajoute à cette liste un pack VII spécial glitch 
+ChatGPT said:
+
+Parfait ! On va créer PACK VII – SPÉCIAL GLITCH / CHAOS NUMÉRIQUE / ARTEFACTS ÉTRANGES.
+Ce pack est centré sur l’art génératif, le glitch, le chaos algorithmique, les fichiers corrompus, le bruit audio/visuel, mais toujours légal.
+On reste dans le style “cyberpunk / underground / weird tech”.
+
+🟪 PACK VII – GLITCH MAXIMAL
+🎛 1) Audio glitch / bruit expérimental
+
+Audio Spectral Smear API : étire un signal sur le spectre → fantomatique
+
+Radio Static Synth API : bruit radio modulé
+
+Audio Stretch & Distortion API : étirements extrêmes, effets surréalistes
+
+Noise API (white/pink/brown noise) : bruit pur pour manipulations créatives
+
+Text-to-Chant API : transforme un texte en chant synthétique → étrange / hallucinant
+
+🖼 2) Image / vidéo glitch
+
+HexCorrupt API : corrompt l’image via manipulation hexadécimale
+
+JPEG-Q Mutator API : crée des artefacts de compression extrême
+
+Frozen Frame Generator API : fantômes temporels dans les vidéos
+
+VHS Static Generator API : bruit VHS, lignes cassées, saturation magnétique
+
+Strange Attractor Image API : Lorenz, Duffing, Rössler → fractales chaotiques
+
+Procedural Texture Noise API : Voronoi, Worley, plasma, nuages → textures glitch
+
+Diffraction Pattern Generator API : motifs lumineux fractals
+
+Spectral Image Decomposition API : désassemble les couleurs en fréquences
+
+💾 3) Fichiers corrompus / artefacts numériques
+
+Broken PDF Corpus API : PDFs partiellement lisibles → glitch littéraire
+
+Obsolete Video Codecs API : RealMedia, Cinepak, Indeo → vintage glitch
+
+Magnetic Tape Errors API : erreurs réelles de bandes magnétiques
+
+File Signature Archeology API : patterns d’en-têtes de fichiers oubliés
+
+BIOS POST Codes API : codes d’anciens BIOS → fantômes technologiques
+
+🧬 4) Math / chaos algorithmique
+
+Cellular Automata API : Game of Life, Lenia, Rule 110 → chaos visuel
+
+Markov Chain Random Text API : texte halluciné stochastique
+
+Quantum RNG Derivatives API : nombres aléatoires quantiques → patterns imprévisibles
+
+Fractal Noise Field API : bruit fractal Perlin, Worley, turbulence
+
+EntropyPool API : gestion d’entropie pour générateurs aléatoires
+
+🖋 5) Langage & symbolique glitch / mystique
+
+Sigils Procedural API : symboles ésotériques générés par algorithme
+
+Crypto-Poetry API : poèmes basés sur hachés cryptographiques → étrange / surréaliste
+
+Proto-Indo-European Root Finder API : mot moderne → racines PIE → linguistique glitchée
+
+Morpheme Mutation API : fragments linguistiques stochastiques → langues fictionnelles
+
+Alien-Phonetics Generator API : phonèmes non humains → langage glitch
+
+🎨 6) Misc glitch / visualisation data
+
+Stratospheric Temperature Inversion API : inversion thermique → pattern graphique étrange
+
+Schumann Resonances API : résonances électromagnétiques terrestres → bruit/graphique
+
+Volcanic Infrasound API : signaux inaudibles → visualisations glitch audio
+
+Bolides NASA API : flux météorites → visualisation fractale
+
+Historic Maps API (Rumsey) : anciennes cartes → glitch visuel / distorsion
+
+💡 Idée d’utilisation du pack VII :
+
+Génération de vidéos glitchées, sons étranges, artefacts visuels pour jeux, ARGs, ou installations cyberpunk.
+
+Création de bots surréalistes : textes hallucinés + sons + images corrompues.
+
+Visualisation de data scientifique ou géographique en mode glitch-art (ondes, satellites, volcans).
