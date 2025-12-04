@@ -730,3 +730,153 @@ Visualisations hypnotiques.
 
 Les sous-API correspondant aux faits improbables, objets mathématiques rares.
 Terrier de lapin infini.
+
+
+🜂 1) APIs PHYSIQUES / SIGNATURES ÉTRANGES DU MONDE RÉEL
+⚡ 1.1. Schumann Resonances API
+
+Mesures des résonances électromagnétiques de la Terre (7.83 Hz, etc.).
+Idéal pour ambiance “vibration cosmique”.
+
+🌡 1.2. Stratospheric Temperature Inversion API
+
+Données sur inversions thermiques hautes atmosphériques.
+Extrêmement rare, visuels très dystopiques.
+
+🌋 1.3. Volcanic Infrasound API
+
+Signaux acoustiques inaudibles émis par volcans actifs.
+Les spectrogrammes sont fous.
+
+☄️ 1.4. Meteoroid Environment Office API
+
+Flux de poussière cosmique, micro-impacts, météores faibles.
+
+🌑 1.5. Lunar Laser Ranging API
+
+Données de distance Terre–Lune mesurées par laser sur les réflecteurs Apollo.
+Un pur artefact technologique des années 70 encore actif.
+
+🜁 2) APIs DE DONNÉES FANTÔMES / TECHNOLOGIES OUBLIÉES
+💾 2.1. Old Software Metadata API (WinWorld)
+
+Descriptions techniques des logiciels abandonnés (OS morts, sharewares, etc.).
+
+📼 2.2. Betamax Video Archive API
+
+Fichiers encodés en Betamax numérisé.
+Du vrai vintage.
+
+💽 2.3. Magnetic Tape Errors API
+
+Statistiques sur erreurs de lecture / dropout de bandes magnétiques.
+Parfait pour glitch-art basé sur données réelles.
+
+📟 2.4. BIOS POST Code Archive API
+
+Liste de codes POST d’anciennes cartes-mères.
+Étrange et nostalgique.
+
+📁 2.5. File Signature Archeology API
+
+Patterns d’en-tête de fichiers oubliés.
+Pour projets forensics artistiques.
+
+🜄 3) APIs CHAOTIQUES / GÉNÉRATEURS D’ABERRATIONS NUMÉRIQUES
+🎛 3.1. Audio Spectral Smear API
+
+Étale un signal audio sur le spectre.
+Résultat = fantomatique.
+
+🖼️ 3.2. JPEG-Q Mutator API
+
+Crée des artefacts basés sur compression extrême adaptative.
+
+🧊 3.3. Frozen Frame Generator API
+
+Prend une vidéo et génère des “fantômes temporels”.
+Hyper glitch.
+
+🟪 3.4. Quantum RNG Derivatives API
+
+Dérivés mathématiques de nombres aléatoires quantiques.
+Les patterns sont imprévus.
+
+🧮 3.5. Strange Attractor Image API
+
+Lorenz, Duffing, Rössler, Ikeda…
+Transformés en images fractales chaotiques.
+
+🜃 4) APIs LINGUISTIQUES PARANORMALES / RECONSTRUCTIONS
+🕯 4.1. Proto-Indo-European Root Finder API
+
+Transforme un mot moderne → racines PIE théoriques.
+Très “archéo-linguistique”.
+
+🔣 4.2. Cryptic Runes Generator API
+
+Génère des runes logogrammes basées sur des patterns mathématiques.
+
+🧬 4.3. Morpheme Mutation API
+
+Altère les fragments linguistiques selon règles stochastiques.
+Utile pour langues fictionnelles.
+
+📡 4.4. Whistler’s Language API
+
+Systèmes vocaux sifflés (Silbo Gomero etc.).
+Données ultra niche.
+
+🪐 4.5. Alien-Phonetics Generator API
+
+Génère des phonèmes plausibles mais non humains (basés sur contraintes physiologiques imaginaires).
+
+🜉 5) APIs OSINT-PACK ÉTRANGE MAIS LÉGALES
+🛰 5.1. Satellite Reentry Track API
+
+Données sur les objets qui rentrent dans l’atmosphère.
+Ambiance Armageddon OSINT.
+
+🧭 5.2. Historic Border Changes API
+
+Évolution des frontières 1800–2020.
+Très intéressant pour cartographie politique.
+
+🚜 5.3. Crop Health Index API
+
+Indices NDVI (végétation) → très utilisé en agriculture, mais aussi en OSINT environnemental.
+
+🧱 5.4. Quarry & Mining Activity API
+
+Mouvements d’extraction minière globale.
+Une facette cachée de la géopolitique.
+
+🚨 5.5. Disaster Incident Feed API
+
+Rapports publics d’incidents : tempêtes, glissements, séismes.
+Très complet en données.
+
+🜄 6) APIs RÉSEAUX EXOTIQUES / DÉCENTRALISATION MUTANTE
+🧪 6.1. IPFS DAG Explorer API
+
+Explore les graphes DAG internes d’IPFS.
+Souvent ignoré, mais hypnotique.
+
+🧬 6.2. Tendermint Consensus Debug API
+
+Voir les rounds de consensus d’une blockchain.
+Très technique et ésotérique.
+
+🔷 6.3. P2P Overlay Latency Map API
+
+Cartographie dynamique entre nœuds p2p.
+Parfait pour visualiser un “réseau vivant”.
+
+⚙️ 6.4. WebRTC NAT Traversal Stats API
+
+Expose uniquement des stats anonymisées → utile pour visualiser les connexions globales.
+
+🛸 6.5. GNSS Multiconstellation API
+
+Data de satellites GPS + GLONASS + Galileo + BeiDou.
+Permet de faire de la géolocalisation artistique surprenante.
