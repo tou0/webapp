@@ -1,0 +1,157 @@
+Parfait — OSINT + chaos + hack “légal” + WTF + décentralisé c’est un mélange très underground tech et totalement faisable sans franchir les lignes interdites.
+
+Voici un pack premium de 20 APIs dans ce style, toutes légales mais avec une vraie vibe “sombre / bizarre / cyber / off-grid”.
+
+⚡️ 1) OSINT APIs (légales, mais sérieuses / incisives)
+🔎 Shodan API
+
+La base du cyber-OSINT. Indexe les appareils exposés sur Internet (cams, serveurs, IoT…).
+⚠️ Usage encadré, destiné à de l’audit de sécu / recherche.
+
+🕸 Censys API
+
+Comme Shodan mais plus académique.
+Scan de certificats SSL, ports ouverts, services exposés.
+
+📡 Hunter.io API
+
+Recherche de mails publics associés à un domaine.
+Très utile pour du profiling OSINT soft.
+
+🏛 Archive.org API
+
+Accès aux snapshots du Web.
+Indispensable pour retrouver des pages effacées, anciennes versions de sites, etc.
+
+🧭 ipinfo.io / ip-api.com
+
+Geoloc + info réseau + ASN.
+De base OSINT, mais aussi idéal pour des projets de traçage “artistique” du Net.
+
+🌍 Wikidata SPARQL API
+
+Ton portail vers des relations d’informations folles et inattendues.
+Tu peux faire des requêtes tellement absurdes que ça devient un art.
+
+🌀 2) APIs “chaos”, imprévisibles, absurdes
+🧨 Chaotic Random API (Random.org)
+
+Génération de vrais nombres aléatoires basés sur le bruit atmosphérique.
+
+🤡 Evil Insult Generator API
+
+Génère des insultes totalement débiles.
+Parfait pour bots chaotiques.
+
+🐦 Useless Facts API
+
+Raconte que des faits absurdes, parfait pour générer du bruit.
+
+🎲 DiceBear Avatars API
+
+Création d’avatars aléatoires, souvent horribles.
+Très bon pour du chaos visuel.
+
+🐸 Frog API / Lores / meme generators
+
+APIs complètement inutiles qui ne renvoient que des grenouilles, des memes générés, etc.
+Vu dans des projets Github obscurs.
+
+💣 3) APIs hack “légal” / cybersécurité (white-hat)
+🔥 HaveIBeenPwned API
+
+Pour vérifier si des emails (les tiens !) apparaissent dans des leak publics.
+Très utilisé en sécurité.
+Usage strict : uniquement tes données ou avec consentement.
+
+🧰 GitHub Security Advisory API
+
+Pour recenser FAILLES / CVEs fraîchement publiées.
+
+🧬 VirusTotal API
+
+Analyse de fichiers / URLs dans une sandbox.
+Lé-gale, utilisée par les pros, mais l’ambiance cyber est réelle.
+
+📡 NVD / CVE API
+
+Base de vulnérabilités officielles.
+Idéal pour bots d’alertes / scrapers de failles.
+
+🕳️ 4) APIs totalement WTF (artistiques, absurdes, hors-norme)
+🥒 Pickle Rick API (oui oui)
+
+Te renvoie… des données sur Pickle Rick.
+Je ne mens pas.
+
+🐦‍🔥 Birds API, Cats as a Service, Dogs API
+
+Des animaux aléatoires.
+Toujours bon pour corrompre un flux de données “sérieux”.
+
+📼 The VHS Vault API (Archive.org)
+
+Pour accéder à des centaines de films VHS numérisés.
+Étrange, nostalgique et légal.
+
+🧊 Bored API
+
+Te dit quoi faire quand tu t’ennuies.
+Résultat souvent inutile, donc parfait.
+
+🛰 5) APIs décentralisées / web3 / blockchain (pas mainstream)
+🪙 TheGraph API
+
+Indexe les données blockchain de manière décentralisée.
+Permet de requêter directement des smart contracts via GraphQL.
+
+🌐 IPFS HTTP API
+
+Stockage décentralisé.
+Idéal pour héberger des fichiers hors des serveurs centraux.
+
+🦾 Arweave / Bundlr API
+
+Stockage “permanent” sur blockchain.
+Très utilisé pour NFT, archives immuables, etc.
+
+🎧 Audius API
+
+Streaming musical décentralisé.
+Une sorte de Spotify Web3 underground.
+
+💀 6) Bonus : APIs hyper rares / dissimulées / oscillant entre art et tech
+🜁 Dead Man’s Switch APIs
+
+Des APIs permettant de déclencher des actions si tu ne te reconnectes plus.
+Concept cyber-anxiogène mais légal.
+
+🧿 Weird Geodata APIs
+
+Ex :
+
+positions d’antennes télécom
+
+listes des feux de forêt en temps réel
+
+datas sismiques et électromagnétiques
+Très utilisées dans l’OSINT géographique.
+
+📓 Obscure Poem Generator API
+
+Poésie générée à partir de modèles absurdes, parfois glitchés.
+On est proche de l’art numérique expérimental.
+
+🔥 Si tu veux je peux aller encore plus loin
+
+Tu veux :
+
+💀 des APIs OSINT encore plus dark mais légales (metadata occultes, géo-analyse, signaux faibles) ?
+
+🧬 des APIs pour générer du chaos absolu dans un flux de données ?
+
+🕳️ des APIs expérimentales, universitaires, cachées dans des labos ?
+
+🛰️ des APIs décentralisées exotiques (Meshnet, p2p, crypto hors-Ethereum) ?
+
+Dis-moi le niveau et je te prépare un pack “full underground”.
